@@ -3,5 +3,4 @@ git is a repository and it is used for version control and it has so many comman
 welcome to git 
 git is a repository and it is used for version control and it has so many commands.
 welcome to git 
-git is a repository and it is used for version control and it has so many commands.welcome to git 
 git is a repository and it is used for version control and it has so many commands.
